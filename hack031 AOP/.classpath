@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry including="**/*.java" kind="src" path="target/generated-sources/r"/>
+	<classpathentry including="**/*.java" kind="src" path="target/generated-sources/aidl"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/android/android/1.6_r3/android-1.6_r3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/aspectj/aspectjrt/1.6.12/aspectjrt-1.6.12.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/aspectj/aspectjweaver/1.6.12/aspectjweaver-1.6.12.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/aspectj/aspectjtools/1.6.12/aspectjtools-1.6.12.jar"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK/hack032"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
